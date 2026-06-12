@@ -2,6 +2,7 @@
   <img src="https://github.com/Alex7i7o/Alex7i7o/blob/main/assets/banner.jpg" alt="Alex | Sastre Digital Banner" width="100%">
 </p>
 ---
+
 # ALEX AGÜERO
 
 ### Sastre Digital | Full Stack Developer & Entrepreneur
@@ -46,5 +47,5 @@ const sastre = {
 
 ---
 <p align="center">
-  <img src="https://github.com/Alex7i7o/Alex7i7o/blob/main/assets/Logo.svg" alt="Alex | Sastre Digital Banner" width="100%">
+  <img src="https://github.com/Alex7i7o/Alex7i7o/blob/main/assets/Logo.svg" alt="Alex | Sastre Digital Banner" width="50%">
 </p>
