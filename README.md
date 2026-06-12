@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Alex7i7o/Alex7i7o/blob/main/assets/banner.jpg" alt="Alex | Sastre Digital Banner" width="100%">
+</p>
+---
 # ALEX AGÜERO
 
 ### Sastre Digital | Full Stack Developer & Entrepreneur
@@ -20,13 +24,13 @@ No me limito a escribir código; diseño soluciones a medida uniendo ingeniería
 ```javascript
 const sastre = {
   languages:  ["JavaScript", "Python", "HTML5", "CSS3"],
-  frameworks: ["React", "Node.js"],
+  frameworks: ["React", "Node.js, tailwind "],
   workflow:   ["Git", "GitHub", "Linux Operations"]
 };
 ```
 ---
 
-##Stack & Capacidades Avanzadas
+## Stack & Capacidades Avanzadas
 * Frontend Fino: Maquetación premium, componentes modulares dinámicos y desarrollo de librerías de diseño de interfaz propias (fireseed.ui).
 
 * Backend & Automatización: Arquitectura basada en JSON, persistencia de datos local, integración de paneles de gestión comercial y plugins corporativos a medida.
@@ -39,3 +43,8 @@ const sastre = {
 * Regis Order System - Infraestructura técnica y plataforma e-commerce para el despliegue de la marca.
 
 * Aura OS - Núcleo de automatización para optimización de flujos operativos y de negocio.
+
+---
+<p align="center">
+  <img src="https://github.com/Alex7i7o/Alex7i7o/blob/main/assets/Logo.svg" alt="Alex | Sastre Digital Banner" width="100%">
+</p>
