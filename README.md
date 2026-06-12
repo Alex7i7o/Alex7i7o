@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/Alex7i7o/Alex7i7o/blob/main/assets/banner.jpg" alt="Alex | Sastre Digital Banner" width="100%">
 </p>
+
 ---
 
 # ALEX AGÜERO
@@ -24,15 +25,19 @@ No me limito a escribir código; diseño soluciones a medida uniendo ingeniería
 ### Core Development
 ```javascript
 const sastre = {
-  languages:  ["JavaScript", "Python", "HTML5", "CSS3"],
-  frameworks: ["React", "Node.js, tailwind "],
+  languages: ["JavaScript", "Python", "HTML5", "CSS3"],
+  frameworks: ["React", "Node.js"],
+  styles_layout: ["Tailwind CSS", "SCSS", "Framer Motion"],
+  agentic_ai_dev:  ["Google Antigravity integration", "AI Workflow Automation"],
   workflow:   ["Git", "GitHub", "Linux Operations"]
 };
 ```
 ---
 
 ## Stack & Capacidades Avanzadas
-* Frontend Fino: Maquetación premium, componentes modulares dinámicos y desarrollo de librerías de diseño de interfaz propias (fireseed.ui).
+* Frontend Fino: Maquetación premium estructurada con Tailwind CSS/SCSS y animaciones fluidas de alta gama mediante Framer Motion. Desarrollo de componentes interactivos avanzados y arquitectura de librerías de diseño de interfaz propias (fireseed.ui).
+  
+* Desarrollo Aumentado con IA: Integración avanzada de flujos de trabajo con IA agéntica (Google Antigravity), utilizando agentes autónomos para acelerar los tiempos de desarrollo, testing y despliegue sin perder calidad de código
 
 * Backend & Automatización: Arquitectura basada en JSON, persistencia de datos local, integración de paneles de gestión comercial y plugins corporativos a medida.
 
@@ -47,5 +52,5 @@ const sastre = {
 
 ---
 <p align="center">
-  <img src="https://github.com/Alex7i7o/Alex7i7o/blob/main/assets/Logo.svg" alt="Alex | Sastre Digital Banner" width="50%">
+  <img src="https://github.com/Alex7i7o/Alex7i7o/blob/main/assets/Logo.svg" alt="Alex | Sastre Digital Banner" width="100">
 </p>
